@@ -12,7 +12,7 @@
   "author": "Giulio Zani <giulio.zani@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^8.2.5",
+    "electron": "^9.4.0",
     "eslint": "^7.0.0",
     "eslint-config-google": "^0.14.0"
   },
